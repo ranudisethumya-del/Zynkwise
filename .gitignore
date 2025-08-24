@@ -1,0 +1,55 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log
+dist/
+.tmp/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# React Native / Metro
+*.packager
+*.iml
+*.log
+*.pid
+*.pid.lock
+*.hprof
+
+# Env / secrets
+.env
+*.keystore
+*.jks
+*.p12
+*.pem
+*.key
+*.crt
+
+# Keep ONLY the debug keystore we share as a team
+!android/app/debug.keystore
+
+# Android
+/android/.gradle/
+/android/app/build/
+/android/build/
+/android/local.properties
+/android/captures
+/android/.idea/
+/android/.settings/
+/android/.project
+
+# iOS
+/ios/Pods/
+/ios/build/
+/ios/DerivedData/
+/ios/*.xcworkspace
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+*.xcuserdatad
+xcuserdata/
+
+# Expo (not used, safe to ignore if present)
+.expo/
+.expo-shared/

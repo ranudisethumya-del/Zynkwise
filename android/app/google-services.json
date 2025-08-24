@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "676501101616",
+    "project_id": "jinx-5p966m",
+    "storage_bucket": "jinx-5p966m.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676501101616:android:7ca3c1a0044e1966b021f5",
+        "android_client_info": {
+          "package_name": "com.zynkwise.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676501101616-6f580645qlk6n9pneollousjtghdbud1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zynkwise.app",
+            "certificate_hash": "96a57e28ae30d8c62b6d594fb7c138a26c6194db"
+          }
+        },
+        {
+          "client_id": "676501101616-vhfqnf8cnv8mgbtfg016q5d53plcr4b0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zynkwise.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "676501101616-kttlffdp4r4n46vrav3jg28mu2mqn6pg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXHFwqaeAKETvQX45j5seL15ertRcZmBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676501101616-29fulv9444l3dvts55nmbd73k906ju9n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "676501101616-4jjc5tgdfqncudeumc1n2g6mg3v8tk9v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zynkwise.zynkwise"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
